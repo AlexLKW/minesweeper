@@ -37,3 +37,7 @@
 
 - Machine assist (AI mode)
   - Implemented an assisted mode for players which would randomly pick a tile to uncover
+
+***
+
+Built using Python
